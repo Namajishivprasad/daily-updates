@@ -12,3 +12,8 @@ Started research on spend analysis and  redesign in cloud central main dashboard
 links of research of spend analusis.
 https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/getting-viewing-bill.html
 https://developer.harness.io/docs/cloud-cost-management/use-ccm-cost-reporting/root-cost-analysis/analyze-cost-for-aws
+
+
+DATE: 07-03-2024
+
+Research on spend analysis and Redesign on cloud central.
