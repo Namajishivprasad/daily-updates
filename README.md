@@ -16,4 +16,7 @@ https://developer.harness.io/docs/cloud-cost-management/use-ccm-cost-reporting/r
 
 DATE: 07-03-2024
 
-Research on spend analysis and Redesign on cloud central.
+Research on spend analysis and Design is completed on cloud central.
+
+DATE: 08-03-2024
+Research on Spend Analysis.
