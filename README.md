@@ -20,3 +20,22 @@ Research on spend analysis and Design is completed on cloud central.
 
 DATE: 08-03-2024
 Research on Spend Analysis.
+
+DATE: 11-03-2024
+Written use cases on cloud central.
+
+DATE:12-03-2024
+Completed use case and research on spend Analysis.
+
+DATE: 13-03-2024
+Research on spend analysis.
+
+DATE: 14-03-2024
+Research on spend analysis.
+
+DATE: 15-03-2024
+Research on spend analysis
+
+DATE: 18-03-2024
+Research on spend analysis
+
