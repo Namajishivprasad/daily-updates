@@ -44,3 +44,9 @@ Research on spend analysis and writing Algorithm on cloud central
 
 DATE:20-03-2024
 Writing Algorithm on cloud central and changes in use case of cloud central.
+
+DATE:21-03-2024
+Done Changes in use cases and submited,  Writing Algorithm.
+
+DATE:22-03-2024
+Writing Algorithm and Research on Spend Analysis
