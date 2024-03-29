@@ -54,4 +54,10 @@ Writing Algorithm and Research on Spend Analysis
 DATE:26-03-2024
 Writing Algorithm.
 
+DATE:27-03-2024
+Written Algorithm and submitted.
+
+DATE:26-03-2024
+Research on Spend analysis.
+
 
