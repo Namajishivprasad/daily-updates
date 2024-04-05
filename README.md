@@ -66,4 +66,28 @@ Research on Spend analysis.
 DATE:01-04-2024
 Research on Spend analysis.
 
+DATE:02-04-2024
+Research on Spend analysis in TAX Releated Topic , APN, Other subscription.
+Here the link for tax        
+https://aws.amazon.com/tax-help/european-union/
+https://aws.amazon.com/tax-help/emea-vat-tables/
+
+DATE:03-04-2024
+Written Algorithm for the Cloud central dashboard (OLD Design) and Research for the TAX.
+
+DATE:04-04-2024
+Reasearch on TAX, aws Markeplace, aws RI marketplace.
+Links of research 
+https://aws.amazon.com/blogs/aws/amazon-ec2-reserved-instance-marketplace/
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-market-general.html#ri-market-concepts-taxinfo
+https://aws.amazon.com/blogs/awsmarketplace/centralizing-payments-aws-marketplace-with-consolidated-billing/
+
+DATE:05-04-2024
+Reaseach on AWS Marketpalce and its pricing modules, Searching for designing for PaperPrototype.
+Links of Reseach on AWS Marketplace
+https://docs.aws.amazon.com/marketplace/latest/userguide/what-is-marketplace.html
+https://docs.aws.amazon.com/marketplace/latest/userguide/listing-fees.html
+https://d1.awsstatic.com/awsmp/solutions/mk-sol-files/private-offers/Vendor_Finance_Success-AWS_Marketplace_VFS_Guide_and_FAQ.pdf?ref_=awsmp_fea_pvo_sd_vnfaq&trk=awsmp_fea_pvo_sd_vnfaq
+https://aws.amazon.com/blogs/awsmarketplace/managing-aws-marketplace-spend-purchase-order-features/
+
 
